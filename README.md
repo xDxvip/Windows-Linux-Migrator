@@ -1,6 +1,6 @@
 # Windows-Linux-Migrator
 Windows TO Linux Migrator Utility to ease the transition from Windows to Linux
-How the Program Works:
+How the Program Works: 
 
 path Screenshots https://github.com/youcefbenslimani/Windows-Linux-Migrator/blob/main/capture_250508_132551.jpg
 
